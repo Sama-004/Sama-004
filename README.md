@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sama004)
+
