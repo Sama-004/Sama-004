@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 3. 💪 Opened PR [#9](https://github.com/Sama-004/snyk-chat-goof/pull/9) in [Sama-004/snyk-chat-goof](https://github.com/Sama-004/snyk-chat-goof)
 4. 💪 Opened PR [#8](https://github.com/Sama-004/snyk-chat-goof/pull/8) in [Sama-004/snyk-chat-goof](https://github.com/Sama-004/snyk-chat-goof)
 <!--END_SECTION:activity-->
-
+# Codeforces stats
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sama004)
 
